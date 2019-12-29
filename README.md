@@ -3,4 +3,4 @@ This algorithm contains following parts:
 * SNR maximization
 * Correlation function
 
-This project was done for National Brain Mapping Lab.
+**This project was done for National Brain Mapping Lab.**
